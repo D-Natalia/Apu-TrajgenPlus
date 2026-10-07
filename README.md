@@ -365,12 +365,6 @@ The original project and its associated research publication should be cited whe
 
 ---
 
-#  Acknowledgements
-
-I would like to acknowledge the authors and contributors of the original APU-TrajGen+ project for providing the underlying trajectory generation framework on which this work was developed.
-
----
-
 # License
 
 This repository contains an extension of the original APU-TrajGen+ project.
