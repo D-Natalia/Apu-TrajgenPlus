@@ -227,10 +227,6 @@ app.py
 <img width="1497" height="723" alt="2" src="https://github.com/user-attachments/assets/109738b8-e344-46d9-a4b4-8f34a9aadc5b" />
 <img width="1503" height="731" alt="3" src="https://github.com/user-attachments/assets/59a9667b-f271-45f3-b5fd-cdd2ab54f07c" />
 
-# 🧪 Experiments
-
-The repository contains several Jupyter notebooks used during development and experimentation.
-
 # 📊 Datasets
 
 The experiments use trajectory data from the Porto and San Francisco datasets.
