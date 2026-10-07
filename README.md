@@ -90,6 +90,9 @@ The experiments were performed using four trajectory-length intervals:
 | 250–450 m         |   0.3248 |   98.50% | ~40 s |
 | 350–550 m         |   0.5778 |   60.30% | ~40 s |
 
+<img width="937" height="883" alt="250-450" src="https://github.com/user-attachments/assets/591d69ce-fbff-4adf-ad14-1a527c6eab19" />
+
+
 ### SU2 — Arithmetic Mean
 
 | Trajectory length | MDE (km) | Accuracy |  Time |
@@ -98,6 +101,8 @@ The experiments were performed using four trajectory-length intervals:
 | 170–350 m         |   0.2616 |   80.70% | ~41 s |
 | 250–450 m         |   0.3715 |   66.70% | ~41 s |
 | 350–550 m         |   0.9857 |    9.60% | ~41 s |
+
+<img width="958" height="883" alt="50-155" src="https://github.com/user-attachments/assets/ec8a9906-f67f-4e50-be6f-1e0bf41d9417" />
 
 ### SU3 — Exponential Moving Average
 
@@ -108,6 +113,9 @@ The experiments were performed using four trajectory-length intervals:
 | 250–450 m         |   0.3841 |   96.30% | ~42 s |
 | 350–550 m         |   0.7484 |   20.70% | ~42 s |
 
+<img width="958" height="883" alt="170-350" src="https://github.com/user-attachments/assets/7183d171-0e7d-4d23-9bad-ef395b4c0d79" />
+
+
 ### SU5 — Dynamic Time Warping
 
 | Trajectory length | MDE (km) | Accuracy |  Time |
@@ -116,6 +124,9 @@ The experiments were performed using four trajectory-length intervals:
 | 170–350 m         |   0.2691 |   82.39% | ~73 s |
 | 250–450 m         |   0.3550 |   69.80% | ~72 s |
 | 350–550 m         |   1.0080 |    9.30% | ~73 s |
+
+<img width="958" height="883" alt="80-155" src="https://github.com/user-attachments/assets/b13751a9-252c-4b54-9b74-818e398b9a7b" />
+
 
 ### Results Summary
 
@@ -212,26 +223,9 @@ app.py
 ---
 
 ## 🗺️ Application Screenshots
-
-### Original vs. Synthetic Trajectory
-
-<!-- Add screenshot here -->
-
-`//poza//`
-
-### Mobile Application
-
-<!-- Add screenshot here -->
-
-`//poza//`
-
-### Road Reconstruction using OSRM
-
-<!-- Add screenshot here -->
-
-`//poza//`
-
----
+<img width="1495" height="741" alt="1" src="https://github.com/user-attachments/assets/b11406df-df12-40b5-a9cd-44b8a514c3a2" />
+<img width="1497" height="723" alt="2" src="https://github.com/user-attachments/assets/109738b8-e344-46d9-a4b4-8f34a9aadc5b" />
+<img width="1503" height="731" alt="3" src="https://github.com/user-attachments/assets/59a9667b-f271-45f3-b5fd-cdd2ab54f07c" />
 
 # 🧪 Experiments
 
